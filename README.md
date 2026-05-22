@@ -1,36 +1,109 @@
-# Lucas Maximiano Rodrigues
+# README.md
 
-Estudante de Ciência da Computação apaixonado por resolver problemas através do código. Acredito na educação como forma de transformação, inspirado pelos princípios da autonomia e do senso crítico.
+````md
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Lucas%20Rodrigues&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-[LinkedIn](https://www.linkedin.com/in/lucas-maximiano-rodrigues-3a4563264/?skipRedirect=true) / [E-mail](mailto:lucas.maximiano.journey@gmail.com)
+<h1 align="center">Hey 👋, I'm Lucas Rodrigues</h1>
+<h3 align="center">Computer Science student • Runner • Building cool stuff with code</h3>
 
----
-
-### Projects
-
-| Project | Description |
-| :--- | :--- |
-| **[The Journey](https://github.com/LucasMax-Rodrigues/The-Journey)** | Meu repositório de estudos onde documento toda a minha evolução durante a graduação em TI, desde os primeiros algoritmos até projetos mais complexos. Foco em Python, exercícios de lógica e registros do 1º período da faculdade na PUC. |
-| **Galaxy Conquest** | Jogo indie de ficção científica pós-cybernetic em desenvolvimento na engine Construct, focado na narrativa de Emy Chanceler e Vectra Roan. |
-
----
-
-### Technologies
-
-* **Linguagem principal:** Python
-* **Versionamento:** Git & GitHub
-* **Editor de Código:** VS Code, PyCharm
-* **Sistema Operacional:** Windows (PowerShell)
-* **Outros:** Construct Engine, Estudos para o Cambridge C1 Advanced
-
----
-
-### Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.allthethings.co/api?username=LucasMax-Rodrigues&show_icons=true" alt="Lucas's GitHub Stats" />
+<p align="center">
+  <a href="https://github.com/LucasMax-Rodrigues">
+    <img src="https://komarev.com/ghpvc/?username=LucasMax-Rodrigues&label=Profile%20views&color=2563eb&style=for-the-badge" alt="profile views" />
+  </a>
 </p>
 
 ---
 
-> "A educação não transforma o mundo. A educação muda as pessoas. Pessoas mudam o mundo." — Paulo Freire
+## 🚀 About Me
+
+- 🎓 Computer Science student at **PUCPR**
+- 🏃 Middle-distance runner focused on **800m** performance
+- 💻 Passionate about **software development, AI and cyber-physical systems**
+- 📚 Currently learning more about:
+  - Python
+  - C/C++
+  - Embedded Systems
+  - Web Development
+- 🎯 Goal: become a high-level developer while balancing sports and university life
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMax-Rodrigues&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMax-Rodrigues&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMax-Rodrigues&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🧠 Current Focus
+
+```txt
+🏫 University Projects
+⚡ Cyber-Physical Systems
+🤖 Artificial Intelligence
+🏃 Performance Training
+````
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/LucasMax-Rodrigues">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Discipline beats motivation."
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
+```
+
+## Como usar
+
+1. Crie um repositório chamado exatamente:
+
+```txt
+LucasMax-Rodrigues
+```
+
+2. Cole o conteúdo acima no arquivo:
+
+```txt
+README.md
+```
+
+3. Dê commit e o README aparecerá automaticamente no topo do seu perfil GitHub.
+
+## Links úteis
+
+* [GitHub Docs sobre Profile README](https://docs.github.com/en/account-and-profile/concepts/personal-profile?utm_source=chatgpt.com#profile-readme)
+* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats?utm_source=chatgpt.com)
+* [Capsule Render](https://github.com/kyechan99/capsule-render?utm_source=chatgpt.com)
+* [Skill Icons](https://skillicons.dev?utm_source=chatgpt.com)
+
+Esse modelo foi inspirado no estilo visual moderno usado em perfis GitHub como o do usuário “eljobe”, mas adaptado para o seu perfil, sua área e seus interesses.
