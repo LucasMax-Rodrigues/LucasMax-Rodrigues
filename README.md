@@ -1,6 +1,6 @@
 # README.md
 
-````md
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Lucas%20Rodrigues&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <h1 align="center">Hey 👋, I'm Lucas Rodrigues</h1>
@@ -53,12 +53,12 @@
 
 ## 🧠 Current Focus
 
-```txt
+
 🏫 University Projects
 ⚡ Cyber-Physical Systems
 🤖 Artificial Intelligence
 🏃 Performance Training
-````
+
 
 ---
 
@@ -81,23 +81,6 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
-```
-
-## Como usar
-
-1. Crie um repositório chamado exatamente:
-
-```txt
-LucasMax-Rodrigues
-```
-
-2. Cole o conteúdo acima no arquivo:
-
-```txt
-README.md
-```
-
-3. Dê commit e o README aparecerá automaticamente no topo do seu perfil GitHub.
 
 ## Links úteis
 
@@ -105,5 +88,3 @@ README.md
 * [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats?utm_source=chatgpt.com)
 * [Capsule Render](https://github.com/kyechan99/capsule-render?utm_source=chatgpt.com)
 * [Skill Icons](https://skillicons.dev?utm_source=chatgpt.com)
-
-Esse modelo foi inspirado no estilo visual moderno usado em perfis GitHub como o do usuário “eljobe”, mas adaptado para o seu perfil, sua área e seus interesses.
