@@ -11,6 +11,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LucasMax-Rodrigues.LucasMax-Rodrigues&"  />
+</div>
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -36,5 +42,14 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LucasMax-Rodrigues/LucasMax-Rodrigues/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/LucasMax-Rodrigues/LucasMax-Rodrigues/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=LucasMax-Rodrigues&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/LucasMax-Rodrigues/LucasMax-Rodrigues/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
