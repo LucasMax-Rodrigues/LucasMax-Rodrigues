@@ -27,9 +27,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
-          filename: stats.svg
-          output_action: deploy
-          committer_branch: stats-output
+          filename: metrics-renders/stats.svg
 
       # 2. Gera o card de Linguagens mais usadas
       - name: GitHub Metrics - Languages
@@ -44,9 +42,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           config_timezone: America/Sao_Paulo
-          filename: languages.svg
-          output_action: deploy
-          committer_branch: languages-output
+          filename: metrics-renders/languages.svg
 
       # 3. Gera o Gráfico de Atividade (Activity Graph)
       - name: GitHub Metrics - Activity Graph
@@ -59,6 +55,4 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           config_timezone: America/Sao_Paulo
-          filename: activity-graph.svg
-          output_action: deploy
-          committer_branch: activity-graph-output
+          filename: metrics-renders/activity-graph.svg
