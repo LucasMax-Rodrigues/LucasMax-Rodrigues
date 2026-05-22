@@ -46,10 +46,23 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LucasMax-Rodrigues/LucasMax-Rodrigues/main/metrics-renders/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/LucasMax-Rodrigues/LucasMax-Rodrigues/main/metrics-renders/languages.svg" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=LucasMax-Rodrigues&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/LucasMax-Rodrigues/LucasMax-Rodrigues/main/metrics-renders/activity-graph.svg" height="300" alt="activity-graph graph"  />
+  <!-- 1. Card de Status Gerais -->
+  <img src="https://raw.githubusercontent.com/LucasMax-Rodrigues/LucasMax-Rodrigues/main/metrics-renders/stats.svg" width="450" alt="stats graph" />
+  
+  <br><br>
+
+  <!-- 2. Card de Foguinho / Streak -->
+  <img src="https://streak-stats.demolab.com?user=LucasMax-Rodrigues&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="450" alt="streak graph" />
+  
+  <br><br>
+
+  <!-- 3. Card de Linguagens -->
+  <img src="https://raw.githubusercontent.com/LucasMax-Rodrigues/LucasMax-Rodrigues/main/metrics-renders/languages.svg" width="450" alt="languages graph" />
+
+  <br><br>
+
+  <!-- 4. Gráfico de Atividade (Reduzido para não ficar gigante) -->
+  <img src="https://raw.githubusercontent.com/LucasMax-Rodrigues/LucasMax-Rodrigues/main/metrics-renders/activity-graph.svg" width="550" alt="activity-graph graph" />
 </div>
 
 ###
