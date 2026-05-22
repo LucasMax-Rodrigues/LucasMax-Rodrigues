@@ -65,7 +65,6 @@
 🏫 University Projects
 ⚡ Cyber-Physical Systems
 🤖 Artificial Intelligence
-🏃 Performance Training
 
 
 ---
