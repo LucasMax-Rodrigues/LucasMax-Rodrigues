@@ -17,7 +17,6 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science student at **PUCPR**
-- 🏃 Middle-distance runner focused on **800m** performance
 - 💻 Passionate about **software development, AI and cyber-physical systems**
 - 📚 Currently learning more about:
   - Python
