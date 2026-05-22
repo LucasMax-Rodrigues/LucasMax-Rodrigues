@@ -39,20 +39,22 @@
 
 ## 📊 GitHub Stats
 
-
 <div align="center">
 
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasMax-Rodrigues&theme=github_dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=LucasMax-Rodrigues&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
 
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMax-Rodrigues&layout=compact&theme=github_dark&hide_border=true" />
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMax-Rodrigues&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMax-Rodrigues&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucasMax-Rodrigues&theme=github_dark" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMax-Rodrigues&theme=tokyonight&hide_border=true" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LucasMax-Rodrigues&theme=github_dark" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LucasMax-Rodrigues&theme=github_dark" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LucasMax-Rodrigues&theme=github_dark" />
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LucasMax-Rodrigues&theme=github_dark&utcOffset=-3" />
+
 </div>
 
 ---
