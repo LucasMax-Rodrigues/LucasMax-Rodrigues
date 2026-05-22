@@ -26,8 +26,9 @@ Estudante de Ciência da Computação apaixonado por resolver problemas através
 
 ### 📊 Estatísticas
 
-![Status do meu GitHub](https://github-readme-stats.vercel.app/api?username=LucasMax-Rodrigues&show_icons=true&theme=default)
-
----
+<p align="left">
+  <img src="https://github-readme-stats.vercel.com/api?username=LucasMax-Rodrigues&show_icons=true&theme=neutral" alt="Status do Lucas" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasMax-Rodrigues&theme=neutral" alt="Streak do Lucas" height="150" />
+</p>
 
 > "A educação não transforma o mundo. A educação muda as pessoas. Pessoas mudam o mundo." — Paulo Freire
