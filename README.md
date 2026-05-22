@@ -1,7 +1,7 @@
 # README.md
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Lucas%20Rodrigues&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Lucas%20Maximiano%20Rodrigues&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <h1 align="center">Hey 👋, I'm Lucas Maximiano Rodrigues</h1>
 <h3 align="center">Computer Science student • Runner • Building cool stuff with code</h3>
