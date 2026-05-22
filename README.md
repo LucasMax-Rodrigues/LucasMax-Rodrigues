@@ -85,10 +85,3 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer"/>
-
-## Links úteis
-
-* [GitHub Docs sobre Profile README](https://docs.github.com/en/account-and-profile/concepts/personal-profile?utm_source=chatgpt.com#profile-readme)
-* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats?utm_source=chatgpt.com)
-* [Capsule Render](https://github.com/kyechan99/capsule-render?utm_source=chatgpt.com)
-* [Skill Icons](https://skillicons.dev?utm_source=chatgpt.com)
