@@ -50,6 +50,20 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasMax-Rodrigues&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMax-Rodrigues&layout=compact&langs_count=8&theme=github_dark"/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=LucasMax-Rodrigues&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
 ## 🧠 Current Focus
 
 
